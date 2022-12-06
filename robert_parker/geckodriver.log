@@ -1,0 +1,452 @@
+1669984029831	geckodriver	INFO	Listening on 127.0.0.1:62863
+1669984034750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileHNsYu3"
+1669984035078	Marionette	INFO	Marionette enabled
+1669984035082	Marionette	INFO	Listening on port 62873
+WebDriver BiDi listening on ws://127.0.0.1:62864
+Read port: 62873
+1669984035331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62864/devtools/browser/4d15b41d-4d93-4a7c-9cdc-f13871773f7a
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+1669984104473	Marionette	INFO	Stopped listening on port 62873
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669984140852	geckodriver	INFO	Listening on 127.0.0.1:62967
+1669984145608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileir9oWg"
+1669984145869	Marionette	INFO	Marionette enabled
+1669984145873	Marionette	INFO	Listening on port 62977
+Read port: 62977
+WebDriver BiDi listening on ws://127.0.0.1:62968
+1669984145953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62968/devtools/browser/48384c45-e098-4b35-84dd-f290bd9dd1ae
+1669984163316	Marionette	INFO	Stopped listening on port 62977
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669985492388	geckodriver	INFO	Listening on 127.0.0.1:50917
+1669985497220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilezhBUgv"
+1669985497486	Marionette	INFO	Marionette enabled
+1669985497491	Marionette	INFO	Listening on port 50930
+Read port: 50930
+WebDriver BiDi listening on ws://127.0.0.1:50918
+1669985497567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50918/devtools/browser/a08914e3-a930-4937-8c75-f0339f49c47b
+1669985513941	Marionette	INFO	Stopped listening on port 50930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669985527799	geckodriver	INFO	Listening on 127.0.0.1:50996
+1669985532509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileQ6xtX1"
+1669985532776	Marionette	INFO	Marionette enabled
+1669985532780	Marionette	INFO	Listening on port 51006
+Read port: 51006
+WebDriver BiDi listening on ws://127.0.0.1:50997
+1669985532852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50997/devtools/browser/27735195-6c55-4244-ba9d-ed22a2ac12f9
+1669985694755	geckodriver	INFO	Listening on 127.0.0.1:51073
+1669985699496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileSpd959"
+1669985699757	Marionette	INFO	Marionette enabled
+1669985699761	Marionette	INFO	Listening on port 54823
+Read port: 54823
+WebDriver BiDi listening on ws://127.0.0.1:51074
+1669985699836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51074/devtools/browser/47a7fc49-6b00-4950-93cf-08138b9dde15
+1669986249651	geckodriver	INFO	Listening on 127.0.0.1:54957
+1669986254817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileeKxAyP"
+1669986255220	Marionette	INFO	Marionette enabled
+1669986255226	Marionette	INFO	Listening on port 54967
+WebDriver BiDi listening on ws://127.0.0.1:54958
+Read port: 54967
+1669986255551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54958/devtools/browser/4fb78fec-640a-4ec6-b604-de02a7009512
+1669986295995	Marionette	INFO	Stopped listening on port 54967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669986338786	geckodriver	INFO	Listening on 127.0.0.1:55064
+1669987210260	geckodriver	INFO	Listening on 127.0.0.1:55198
+1669987215017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilep9F2WP"
+1669987215291	Marionette	INFO	Marionette enabled
+1669987215296	Marionette	INFO	Listening on port 55208
+Read port: 55208
+WebDriver BiDi listening on ws://127.0.0.1:55199
+1669987215376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55199/devtools/browser/2bdf052c-476e-4e8c-8ad4-a53f2f232e42
+1669987243048	Marionette	INFO	Stopped listening on port 55208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669987318437	geckodriver	INFO	Listening on 127.0.0.1:55289
+1669987323267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileHE52J6"
+1669987323576	Marionette	INFO	Marionette enabled
+1669987323580	Marionette	INFO	Listening on port 55321
+WebDriver BiDi listening on ws://127.0.0.1:55290
+Read port: 55321
+1669987323824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55290/devtools/browser/16031ab9-e717-4a52-a81e-c749cbac8fb9
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1669987492690	geckodriver	INFO	Listening on 127.0.0.1:55438
+1669987497407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileQiXUQj"
+1669987497691	Marionette	INFO	Marionette enabled
+1669987497694	Marionette	INFO	Listening on port 55448
+Read port: 55448
+WebDriver BiDi listening on ws://127.0.0.1:55439
+1669987497767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 5378: TypeError: win is null
+1669987498965	Marionette	INFO	Stopped listening on port 55448
+1669987498985	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1669987504201	geckodriver	INFO	Listening on 127.0.0.1:55458
+1669987508928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileHQ8JlK"
+1669987509195	Marionette	INFO	Marionette enabled
+1669987509198	Marionette	INFO	Listening on port 55469
+Read port: 55469
+WebDriver BiDi listening on ws://127.0.0.1:55459
+1669987509273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55459/devtools/browser/4ee433e3-a023-4f80-af63-3155a0419064
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHQ8JlK\thumbnails) because it does not exist
+1669987663978	geckodriver	INFO	Listening on 127.0.0.1:55619
+1669987669665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileVr92Dt"
+1669987670075	Marionette	INFO	Marionette enabled
+1669987670080	Marionette	INFO	Listening on port 55629
+WebDriver BiDi listening on ws://127.0.0.1:55620
+Read port: 55629
+1669987670393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55620/devtools/browser/71ad6bb1-e07b-41c6-ac3d-1d6b5039044e
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVr92Dt\thumbnails) because it does not exist
+1669987763244	geckodriver	INFO	Listening on 127.0.0.1:62863
+1669987768272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileWZVPwd"
+1669987768543	Marionette	INFO	Marionette enabled
+1669987768546	Marionette	INFO	Listening on port 62875
+Read port: 62875
+WebDriver BiDi listening on ws://127.0.0.1:62864
+1669987768620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62864/devtools/browser/6302876c-2041-4d37-9cb2-8ea5aae18725
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWZVPwd\thumbnails) because it does not exist
+1669988062108	geckodriver	INFO	Listening on 127.0.0.1:62962
+1669988067539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileS5I97l"
+1669988067914	Marionette	INFO	Marionette enabled
+1669988067919	Marionette	INFO	Listening on port 62972
+Read port: 62972
+WebDriver BiDi listening on ws://127.0.0.1:62963
+1669988068030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62963/devtools/browser/8d237f5b-04d7-45ec-902b-cab2b7749a55
+1669988093299	Marionette	INFO	Stopped listening on port 62972
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669988164381	geckodriver	INFO	Listening on 127.0.0.1:63000
+1669988169495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile8tGDzC"
+1669988169863	Marionette	INFO	Marionette enabled
+1669988169869	Marionette	INFO	Listening on port 63010
+Read port: 63010
+WebDriver BiDi listening on ws://127.0.0.1:63001
+1669988169976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63001/devtools/browser/3bb22779-5fa9-4d92-8a2e-4c03cb95c516
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile8tGDzC\thumbnails) because it does not exist
+1669988307270	geckodriver	INFO	Listening on 127.0.0.1:63099
+1669988312114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileh1kUlN"
+1669988312539	Marionette	INFO	Marionette enabled
+1669988312545	Marionette	INFO	Listening on port 63109
+Read port: 63109
+WebDriver BiDi listening on ws://127.0.0.1:63100
+1669988312662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63100/devtools/browser/d56b7305-5d14-4325-9226-ce58024e6d91
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileh1kUlN\thumbnails) because it does not exist
+1669988735465	geckodriver	INFO	Listening on 127.0.0.1:63235
+1669988741461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileAMQDqi"
+1669988741855	Marionette	INFO	Marionette enabled
+1669988741860	Marionette	INFO	Listening on port 63252
+Read port: 63252
+WebDriver BiDi listening on ws://127.0.0.1:63236
+1669988741967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63236/devtools/browser/c5a4229f-64a9-4ed1-b688-702105ccb905
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileAMQDqi\thumbnails) because it does not exist
+1669988842267	geckodriver	INFO	Listening on 127.0.0.1:63393
+1669988846996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileRuvfn6"
+1669988847338	Marionette	INFO	Marionette enabled
+1669988847343	Marionette	INFO	Listening on port 63403
+Read port: 63403
+WebDriver BiDi listening on ws://127.0.0.1:63394
+1669988847440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63394/devtools/browser/ca6f1edd-81d6-414e-8898-616e6efee20b
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRuvfn6\thumbnails) because it does not exist
+1669988913100	geckodriver	INFO	Listening on 127.0.0.1:63472
+1669988918250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileSLBXIe"
+*** You are running in headless mode.
+1669988918542	Marionette	INFO	Marionette enabled
+1669988918547	Marionette	INFO	Listening on port 63483
+Read port: 63483
+WebDriver BiDi listening on ws://127.0.0.1:63473
+1669988918624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63473/devtools/browser/665acca0-351f-4c5d-a397-c12800b5e962
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileSLBXIe\thumbnails) because it does not exist
+1669989279234	geckodriver	INFO	Listening on 127.0.0.1:63581
+1669989284228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileuf3jZu"
+*** You are running in headless mode.
+1669989284580	Marionette	INFO	Marionette enabled
+1669989284585	Marionette	INFO	Listening on port 63591
+Read port: 63591
+WebDriver BiDi listening on ws://127.0.0.1:63582
+1669989284675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63582/devtools/browser/701360b1-d7c2-46ae-9658-cfd28d09388b
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileuf3jZu\thumbnails) because it does not exist
+1669989441426	geckodriver	INFO	Listening on 127.0.0.1:63709
+1669989446599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileP1QRUt"
+*** You are running in headless mode.
+1669989446957	Marionette	INFO	Marionette enabled
+1669989446962	Marionette	INFO	Listening on port 63719
+Read port: 63719
+WebDriver BiDi listening on ws://127.0.0.1:63710
+1669989447070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63710/devtools/browser/26a7ff6b-f368-4f31-bf85-f8bddaedd18c
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileP1QRUt\thumbnails) because it does not exist
+1669989506159	geckodriver	INFO	Listening on 127.0.0.1:63816
+1669989511437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile48WYQK"
+*** You are running in headless mode.
+1669989511752	Marionette	INFO	Marionette enabled
+1669989511756	Marionette	INFO	Listening on port 63826
+WebDriver BiDi listening on ws://127.0.0.1:63817
+Read port: 63826
+1669989512006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63817/devtools/browser/a8f17dc6-63bd-4a6d-8db8-33ec37fee05b
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile48WYQK\thumbnails) because it does not exist
+1669989668891	geckodriver	INFO	Listening on 127.0.0.1:63932
+1669989674207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileepTBhV"
+*** You are running in headless mode.
+1669989675556	Marionette	INFO	Marionette enabled
+1669989675585	Marionette	INFO	Listening on port 63942
+Read port: 63942
+WebDriver BiDi listening on ws://127.0.0.1:63933
+1669989676082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63933/devtools/browser/f9a0eb1b-161f-41e0-989d-3b8f480d105e
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileepTBhV\thumbnails) because it does not exist
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1669989773177	geckodriver	INFO	Listening on 127.0.0.1:64046
+1669989778999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileAqKib1"
+*** You are running in headless mode.
+1669989779516	Marionette	INFO	Marionette enabled
+1669989779523	Marionette	INFO	Listening on port 64056
+Read port: 64056
+WebDriver BiDi listening on ws://127.0.0.1:64047
+1669989779699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64047/devtools/browser/eccd6e47-db17-4ab5-813d-606dbf668e69
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileAqKib1\thumbnails) because it does not exist
+1669989891207	geckodriver	INFO	Listening on 127.0.0.1:64137
+1669989896977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile2wA6am"
+*** You are running in headless mode.
+1669989897511	Marionette	INFO	Marionette enabled
+1669989897519	Marionette	INFO	Listening on port 64147
+WebDriver BiDi listening on ws://127.0.0.1:64138
+Read port: 64147
+1669989897804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64138/devtools/browser/76be72f0-2e80-405b-9bcc-be90c673a437
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile2wA6am\thumbnails) because it does not exist
+1669990043201	geckodriver	INFO	Listening on 127.0.0.1:64221
+1669990051353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64222" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileOgGS3c"
+*** You are running in headless mode.
+1669990052230	Marionette	INFO	Marionette enabled
+1669990052240	Marionette	INFO	Listening on port 64231
+Read port: 64231
+WebDriver BiDi listening on ws://127.0.0.1:64222
+1669990052415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64222/devtools/browser/4e580e75-1f6e-4178-adae-4d392c9b070e
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileOgGS3c\thumbnails) because it does not exist
+1669990177302	geckodriver	INFO	Listening on 127.0.0.1:64305
+1669990183754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilejAch8Y"
+*** You are running in headless mode.
+1669990184290	Marionette	INFO	Marionette enabled
+1669990184297	Marionette	INFO	Listening on port 64315
+Read port: 64315
+WebDriver BiDi listening on ws://127.0.0.1:64306
+1669990184439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64306/devtools/browser/77f65a94-4373-43d6-bb5d-2c7f5633d658
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilejAch8Y\thumbnails) because it does not exist
+1669990266289	geckodriver	INFO	Listening on 127.0.0.1:64399
+1669990272740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile4NWTl4"
+*** You are running in headless mode.
+1669990273275	Marionette	INFO	Marionette enabled
+1669990273286	Marionette	INFO	Listening on port 64409
+Read port: 64409
+WebDriver BiDi listening on ws://127.0.0.1:64400
+1669990273440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64400/devtools/browser/31422bcd-cccb-43c5-9183-3f16ebf5e8e7
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile4NWTl4\thumbnails) because it does not exist
+1669990351291	geckodriver	INFO	Listening on 127.0.0.1:64491
+1669990357496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileD2ToNy"
+*** You are running in headless mode.
+1669990357975	Marionette	INFO	Marionette enabled
+1669990357985	Marionette	INFO	Listening on port 64501
+Read port: 64501
+WebDriver BiDi listening on ws://127.0.0.1:64492
+1669990358103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64492/devtools/browser/6d668dc7-f762-4493-8b5e-e20b76bee353
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileD2ToNy\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileD2ToNy\thumbnails) because it does not exist
+1669995642046	geckodriver	INFO	Listening on 127.0.0.1:51641
+1669995647424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilekclKOy"
+*** You are running in headless mode.
+1669995647757	Marionette	INFO	Marionette enabled
+1669995647762	Marionette	INFO	Listening on port 51651
+Read port: 51651
+WebDriver BiDi listening on ws://127.0.0.1:51642
+1669995647865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51642/devtools/browser/a71586a5-422d-444e-a7b6-26fe5aad2017
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilekclKOy\thumbnails) because it does not exist
+Exiting due to channel error.
+Listening on 127.0.0.1:51707
+1669995774658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileoLwVz1"
+*** You are running in headless mode.
+1669995774965	Marionette	INFO	Marionette enabled
+1669995774971	Marionette	INFO	Listening on port 51717
+WebDriver BiDi listening on ws://127.0.0.1:51708
+Read port: 51717
+1669995775238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51708/devtools/browser/cd355e1d-4bed-4c60-ab07-7a03e6c1c2a2
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileoLwVz1\thumbnails) because it does not exist
+1669995987671	geckodriver	INFO	Listening on 127.0.0.1:51877
+1669995993375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileRKfO5w"
+*** You are running in headless mode.
+1669995993681	Marionette	INFO	Marionette enabled
+1669995993685	Marionette	INFO	Listening on port 51889
+WebDriver BiDi listening on ws://127.0.0.1:51878
+Read port: 51889
+1669995994029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51878/devtools/browser/61f87d60-4bb0-4a46-9dfa-5a925717fa2a
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRKfO5w\thumbnails) because it does not exist
+1669996499308	geckodriver	INFO	Listening on 127.0.0.1:52415
+1669996504111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile6TdqLS"
+*** You are running in headless mode.
+1669996504338	Marionette	INFO	Marionette enabled
+1669996504342	Marionette	INFO	Listening on port 52427
+WebDriver BiDi listening on ws://127.0.0.1:52416
+Read port: 52427
+1669996504535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52416/devtools/browser/f8a04f9e-d389-447a-b57c-b01944452547
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile6TdqLS\thumbnails) because it does not exist
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1670059073551	geckodriver	INFO	Listening on 127.0.0.1:53936
+1670059078282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileVa9ByY"
+*** You are running in headless mode.
+1670059078652	Marionette	INFO	Marionette enabled
+1670059078657	Marionette	INFO	Listening on port 53957
+Read port: 53957
+WebDriver BiDi listening on ws://127.0.0.1:53937
+1670059078742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:53937/devtools/browser/504e36a2-a7e1-42f3-94f9-4ad55ced14c7
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+1670059588816	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Marionette threw an error: <unprintable error>
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVa9ByY\thumbnails) because it does not exist
+NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRqj6Ct\thumbnails) because it does not exist
+RR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7UtDd7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7UtDd7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7UtDd7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7UtDd7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7UtDd7\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7UtDd7\thumbnails) because it does not exist
+0242753859	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilefrz51P\thumbnails) because it does not exist
+1670317533829	geckodriver	INFO	Listening on 127.0.0.1:54617
+1670317539140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileno3JOV"
+*** You are running in headless mode.
+1670317539425	Marionette	INFO	Marionette enabled
+1670317539429	Marionette	INFO	Listening on port 54633
+Read port: 54633
+WebDriver BiDi listening on ws://127.0.0.1:54618
+1670317539506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54618/devtools/browser/460be453-e332-4218-9548-370e38dc55d7
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileno3JOV\thumbnails) because it does not exist
+1670318049726	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670318515186	geckodriver	INFO	Listening on 127.0.0.1:50138
+1670318521482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilesqBWZt"
+1670318521785	Marionette	INFO	Marionette enabled
+1670318521790	Marionette	INFO	Listening on port 50153
+Read port: 50153
+WebDriver BiDi listening on ws://127.0.0.1:50139
+1670318521882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50139/devtools/browser/0d06ba4e-1b00-4717-96fe-0beb79b93e90
+1670318529468	Marionette	INFO	Stopped listening on port 50153
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[2022-12-06T09:22:09Z ERROR viaduct::backend::ffi] Missing HTTP status
+1670318534055	geckodriver	INFO	Listening on 127.0.0.1:50183
+1670318538842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofiles0Ir2P"
+1670318539107	Marionette	INFO	Marionette enabled
+1670318539112	Marionette	INFO	Listening on port 50194
+WebDriver BiDi listening on ws://127.0.0.1:50184
+Read port: 50194
+1670318539340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50184/devtools/browser/c1291aae-103b-4c9a-9158-4f8c895c0a93
+1670318564591	Marionette	INFO	Stopped listening on port 50194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
