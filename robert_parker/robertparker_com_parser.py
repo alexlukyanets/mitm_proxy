@@ -1,11 +1,17 @@
+import logging
 import time
+from typing import Optional, List
 
-from selenium.common import NoSuchElementException
+from selenium.common import NoSuchElementException, InvalidArgumentException, TimeoutException
+from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 from robert_parker.items import WineItem
-# from robert_parker.database.parker_database import insert_or_update
 from datetime import datetime
+
+logger = logging.getLogger(__name__)
 
 
 class RobertparkerComParser:
@@ -50,8 +56,12 @@ class RobertparkerComParser:
         variety = wine_dict.get('variety')
         if variety:
             wine_item.variety = variety[0].get('value')
-        wine_item.sweetness = wine_dict['dryness']['value']
+        sweetness = wine_dict.get('dryness')
+        if sweetness:
+            wine_item.sweetness = sweetness.get('value')
         wine_item.vintage = wine_dict['vintage']
+        if wine_item.vintage:
+            wine_item.vintage = str(wine_dict['vintage'])
         wine_item.name = wine_dict['name']
         wine_item.name_display = wine_dict['name_display']
         wine_item.producer_name = wine_dict['producer']['name']
@@ -60,10 +70,13 @@ class RobertparkerComParser:
         location = wine_dict.get('location')
         if location:
             wine_item.location_name = location.get('name')
-        wine_item.region = wine_dict['region']['name']
-        testing_notes = wine['_source']['tasting_notes'][0]
+        region = wine_dict.get('region')
+        if region:
+            wine_item.region = region.get('name')
+        testing_notes = wine['_source']['tasting_notes']
         if not testing_notes:
             return wine_item
+        testing_notes = testing_notes[0]
         wine_item.reviewer = testing_notes['reviewer']['name']
         wine_item.reviewer_id = testing_notes['reviewer']['_id']
         wine_item.description = testing_notes.get('content')
@@ -73,13 +86,46 @@ class RobertparkerComParser:
         wine_item.issue_date = cls.extract_issue_date(testing_notes)
         return wine_item
 
+    @classmethod
+    def is_wines_exist(cls, driver: WebDriver) -> bool:
+        element = cls.find_xpath_delay(driver, '/html/body/div[2]/main/div/div/div/div/div/div/div', max_counter=50)
+        if element:
+            return True
+        return False
+
     @staticmethod
-    def extract_last_page_number(driver):
-        while True:
+    def selenium_exceptions() -> tuple:
+        return NoSuchElementException, InvalidArgumentException, TimeoutException
+
+    @classmethod
+    def extract_last_page_number(cls, driver: WebDriver) -> Optional[int]:
+        element = cls.find_xpath_delay(driver, xpath1='//span[contains(text(), "Last")]/../..')
+        if element:
             try:
-                last_page = driver.find_element(By.XPATH, '//span[contains(text(), '
-                                                          '"Last")]/../..').get_attribute('href').rsplit('=', 1)[-1]
-                return int(last_page)
-            except NoSuchElementException:
-                time.sleep(0.1)
-                continue
+                return int(element.get_attribute('href').rsplit('=', 1)[-1])
+            except ValueError:
+                return 1
+        try:
+            cls.find_xpaths(driver, ['//*[@id="by-location"]/div/div[2]/div[1]/div/div/div'], 1)
+        except cls.selenium_exceptions():
+            return
+
+    @classmethod
+    def find_xpaths(cls, driver: WebDriver, xpaths: List, delay):
+        for item_xpath in xpaths:
+            try:
+                return WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.XPATH, item_xpath)))
+            except cls.selenium_exceptions():
+                pass
+
+    @classmethod
+    def find_xpath_delay(cls, driver: WebDriver, xpath1, xpath2=None, max_counter=40, delay=0.1):
+        xpaths = [item for item in [xpath1, xpath2] if item]
+        if not xpaths:
+            return
+        counter = 0
+        while counter != max_counter:
+            elem = cls.find_xpaths(driver, xpaths, delay)
+            if elem:
+                return elem
+            counter += 1

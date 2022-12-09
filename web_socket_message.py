@@ -3,7 +3,6 @@ from json import JSONDecodeError
 from mitmproxy import http
 import json
 from chompjs import parse_js_object
-from mitmproxy.websocket import WebSocketMessage
 
 from robert_parker.database.request_to_country import insert_or_update
 from robert_parker.robertparker_com_parser import RobertparkerComParser

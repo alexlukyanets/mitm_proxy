@@ -450,3 +450,746 @@ Read port: 50194
 DevTools listening on ws://127.0.0.1:50184/devtools/browser/c1291aae-103b-4c9a-9158-4f8c895c0a93
 1670318564591	Marionette	INFO	Stopped listening on port 50194
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670318582068	geckodriver	INFO	Listening on 127.0.0.1:50264
+1670318586867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofiley6RrbZ"
+*** You are running in headless mode.
+1670318587102	Marionette	INFO	Marionette enabled
+1670318587105	Marionette	INFO	Listening on port 50274
+WebDriver BiDi listening on ws://127.0.0.1:50265
+Read port: 50274
+1670318587287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50265/devtools/browser/ea52255f-b0b3-482c-aa5f-2f303772cff0
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiley6RrbZ\thumbnails) because it does not exist
+1670319105218	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiley6RrbZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiley6RrbZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiley6RrbZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiley6RrbZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiley6RrbZ\thumbnails) because it does not exist
+0321445289	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFtU5eN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFtU5eN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFtU5eN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFtU5eN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFtU5eN\thumbnails) because it does not exist
+te	INFO	Marionette enabled
+1670333814217	Marionette	INFO	Listening on port 57109
+WebDriver BiDi listening on ws://127.0.0.1:57098
+Read port: 57109
+1670333814407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:57098/devtools/browser/d1df0a9d-da2c-4cf6-b268-782d371a6dd2
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNNCjje\thumbnails) because it does not exist
+1670334324465	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670334476521	geckodriver	INFO	Listening on 127.0.0.1:50298
+1670334481449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilea8cgyS"
+*** You are running in headless mode.
+1670334481672	Marionette	INFO	Marionette enabled
+1670334481676	Marionette	INFO	Listening on port 50313
+WebDriver BiDi listening on ws://127.0.0.1:50299
+Read port: 50313
+1670334481882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50299/devtools/browser/0ccd5686-63f8-4814-a959-295aea1a8276
+1670334884075	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilea8cgyS\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilea8cgyS\thumbnails) because it does not exist
+Exiting due to channel error.
+1670400648866	geckodriver	INFO	Listening on 127.0.0.1:54792
+1670400653697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileLQHF9L"
+*** You are running in headless mode.
+1670400654189	Marionette	INFO	Marionette enabled
+1670400654193	Marionette	INFO	Listening on port 54802
+Read port: 54802
+WebDriver BiDi listening on ws://127.0.0.1:54793
+1670400654277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54793/devtools/browser/4a2f9a08-896e-44e1-89bf-3e429533dbee
+1670401044313	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLQHF9L\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLQHF9L\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLQHF9L\thumbnails) because it does not exist
+ll be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63252/devtools/browser/b7217185-4968-4dbe-8042-22b9f4ffc0f5
+1670406291705	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670406818482	geckodriver	INFO	Listening on 127.0.0.1:65118
+1670406823469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileMQ6d5A"
+*** You are running in headless mode.
+1670406823759	Marionette	INFO	Marionette enabled
+1670406823765	Marionette	INFO	Listening on port 65133
+Read port: 65133
+WebDriver BiDi listening on ws://127.0.0.1:65119
+1670406823857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:65119/devtools/browser/47ad60ac-16fd-4f2c-a8c4-7d177df7f7a7
+1670407218913	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670408352382	geckodriver	INFO	Listening on 127.0.0.1:51273
+1670408357436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile3jWYos"
+*** You are running in headless mode.
+1670408357653	Marionette	INFO	Marionette enabled
+1670408357656	Marionette	INFO	Listening on port 51308
+Read port: 
+1670408357657	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://127.0.0.1:51274
+Read port: 51308
+1670408357858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51274/devtools/browser/e180263f-94c3-44c1-a64b-145480b40003
+1670408759753	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile3jWYos\thumbnails) because it does not exist
+ging-port" "63994" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileNptNhi"
+*** You are running in headless mode.
+1670409592736	Marionette	INFO	Marionette enabled
+1670409592740	Marionette	INFO	Listening on port 64009
+Read port: 64009
+WebDriver BiDi listening on ws://127.0.0.1:63994
+1670409592818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63994/devtools/browser/a76a31c5-0dac-4d70-aad2-253f9237cd95
+1670409986688	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/f2a81af9a7788e795173bf74a44bf1e95736ac6d.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+1670428201492	geckodriver	INFO	Listening on 127.0.0.1:63016
+1670428206858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "63017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileu9UR3c"
+*** You are running in headless mode.
+1670428207156	Marionette	INFO	Marionette enabled
+1670428207165	Marionette	INFO	Listening on port 63028
+WebDriver BiDi listening on ws://127.0.0.1:63017
+Read port: 63028
+1670428207402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63017/devtools/browser/84122b2e-f67b-44f7-9acc-3d6c1840351e
+1670428597385	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+1670487845284	geckodriver	INFO	Listening on 127.0.0.1:51432
+1670487850503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileXRwdV4"
+*** You are running in headless mode.
+1670487850927	Marionette	INFO	Marionette enabled
+1670487850934	Marionette	INFO	Listening on port 51449
+Read port: 51449
+WebDriver BiDi listening on ws://127.0.0.1:51433
+1670487851051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51433/devtools/browser/b4b4d813-8c0d-44a7-bc05-398ed91011c0
+1670488241070	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670488589038	geckodriver	INFO	Listening on 127.0.0.1:52015
+1670488594225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileoXEWRL"
+*** You are running in headless mode.
+1670488594498	Marionette	INFO	Marionette enabled
+1670488594501	Marionette	INFO	Listening on port 52025
+Read port: 52025
+WebDriver BiDi listening on ws://127.0.0.1:52016
+1670488594570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52016/devtools/browser/5df3850d-286e-4f53-b2bf-77856de0a1e7
+1670488729293	geckodriver	INFO	Listening on 127.0.0.1:52120
+1670488734481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileHVNNsH"
+*** You are running in headless mode.
+1670488734756	Marionette	INFO	Marionette enabled
+1670488734760	Marionette	INFO	Listening on port 52134
+Read port: 52134
+WebDriver BiDi listening on ws://127.0.0.1:52121
+1670488734837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52121/devtools/browser/9830a014-a3ac-4308-b70c-1a718d605812
+1670489135124	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670490982761	geckodriver	INFO	Listening on 127.0.0.1:54218
+1670490987995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilewj984Z"
+*** You are running in headless mode.
+1670490988252	Marionette	INFO	Marionette enabled
+1670490988258	Marionette	INFO	Listening on port 54228
+WebDriver BiDi listening on ws://127.0.0.1:54219
+Read port: 54228
+1670490988480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54219/devtools/browser/849515bc-b259-48d2-9d56-3a39353673da
+1670491072901	geckodriver	INFO	Listening on 127.0.0.1:54327
+1670491078076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofiledpA57o"
+*** You are running in headless mode.
+1670491078341	Marionette	INFO	Marionette enabled
+1670491078346	Marionette	INFO	Listening on port 54337
+WebDriver BiDi listening on ws://127.0.0.1:54328
+Read port: 54337
+1670491078525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54328/devtools/browser/80b62a8e-f366-4b00-b7e7-8847613052a6
+1670491455728	geckodriver	INFO	Listening on 127.0.0.1:54469
+1670491460849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54470" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilewGoqrn"
+*** You are running in headless mode.
+1670491461101	Marionette	INFO	Marionette enabled
+1670491461105	Marionette	INFO	Listening on port 54479
+WebDriver BiDi listening on ws://127.0.0.1:54470
+Read port: 54479
+1670491461315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:54470/devtools/browser/1a0604b1-7133-401f-8eef-b4bceed6d2c4
+1670491851459	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+1670578251404	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilewGoqrn\thumbnails) because it does not exist
+ error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilepTq2wJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilepTq2wJ\thumbnails) because it does not exist
+ror: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWQ8W5f\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWQ8W5f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWQ8W5f\thumbnails) because it does not exist
+1670591297202	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWQ8W5f\thumbnails) because it does not exist
+ng region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilef54Qor\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilef54Qor\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilef54Qor\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilef54Qor\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilef54Qor\thumbnails) because it does not exist
+	Listening on port 55451
+Read port: 55451
+WebDriver BiDi listening on ws://127.0.0.1:55442
+1670572918718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55442/devtools/browser/44c0f8b6-e6c3-48c0-aae9-9f98a61e9d2b
+1670573052496	geckodriver	INFO	Listening on 127.0.0.1:55530
+1670573057348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilefXfzx5"
+1670573057609	Marionette	INFO	Marionette enabled
+1670573057613	Marionette	INFO	Listening on port 55540
+Read port: 55540
+WebDriver BiDi listening on ws://127.0.0.1:55531
+1670573057690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55531/devtools/browser/381312a2-dfe6-4124-a5c1-7977b3ae1652
+1670573447747	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilefXfzx5\thumbnails) because it does not exist
+1670575181464	geckodriver	INFO	Listening on 127.0.0.1:56027
+1670575186734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilewcegMy"
+1670575187054	Marionette	INFO	Marionette enabled
+1670575187058	Marionette	INFO	Listening on port 56037
+WebDriver BiDi listening on ws://127.0.0.1:56028
+Read port: 56037
+1670575187291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56028/devtools/browser/cf0d3477-bae9-4b2e-bdf6-f2ab584d81ad
+1670575231495	geckodriver	INFO	Listening on 127.0.0.1:56105
+1670575236387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileLfqYwl"
+1670575236636	Marionette	INFO	Marionette enabled
+1670575236640	Marionette	INFO	Listening on port 56118
+WebDriver BiDi listening on ws://127.0.0.1:56106
+Read port: 56118
+1670575236798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56106/devtools/browser/8a470945-4324-4458-9aea-cbaf312a1886
+1670575452886	geckodriver	INFO	Listening on 127.0.0.1:56290
+1670575457710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilef1M8ql"
+1670575457975	Marionette	INFO	Marionette enabled
+1670575457979	Marionette	INFO	Listening on port 56300
+Read port: 56300
+WebDriver BiDi listening on ws://127.0.0.1:56291
+1670575458051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56291/devtools/browser/07ff7ed7-68ef-4891-af31-1c5af8cfd030
+1670575488045	geckodriver	INFO	Listening on 127.0.0.1:56363
+1670575492893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileLHnOTe"
+1670575493140	Marionette	INFO	Marionette enabled
+1670575493143	Marionette	INFO	Listening on port 56373
+WebDriver BiDi listening on ws://127.0.0.1:56364
+Read port: 56373
+1670575493325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56364/devtools/browser/8d365838-236c-438b-9b9b-8d89f3a4f5ee
+1670575564406	geckodriver	INFO	Listening on 127.0.0.1:56463
+1670575569324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofiletGsLNe"
+1670575569599	Marionette	INFO	Marionette enabled
+1670575569604	Marionette	INFO	Listening on port 56473
+1670575605667	geckodriver	INFO	Listening on 127.0.0.1:56487
+1670575610527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileXjBQVn"
+1670575610821	Marionette	INFO	Marionette enabled
+1670575610826	Marionette	INFO	Listening on port 56497
+Read port: 56497
+WebDriver BiDi listening on ws://127.0.0.1:56488
+1670575610914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56488/devtools/browser/95a0036f-16d2-416f-a276-ec50a80b5af0
+1670575748894	geckodriver	INFO	Listening on 127.0.0.1:56567
+1670575753854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilePTsDIG"
+1670575754125	Marionette	INFO	Marionette enabled
+1670575754128	Marionette	INFO	Listening on port 56577
+Read port: 56577
+WebDriver BiDi listening on ws://127.0.0.1:56568
+1670575754210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56568/devtools/browser/73dde94d-9bc8-4495-8d9b-0bfe6b9bfbb0
+1670575777814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670575801674	Marionette	INFO	Stopped listening on port 56577
+1670575910926	geckodriver	INFO	Listening on 127.0.0.1:56711
+1670575915797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileGTSBYv"
+1670575916152	Marionette	INFO	Marionette enabled
+1670575916156	Marionette	INFO	Listening on port 56721
+WebDriver BiDi listening on ws://127.0.0.1:56712
+Read port: 56721
+1670575916329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56712/devtools/browser/0acb1fad-17f6-45aa-a621-ad0bcbc5ea5d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670576407072	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670576439262	geckodriver	INFO	Listening on 127.0.0.1:56898
+1670576444126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileGkplUR"
+1670576444389	Marionette	INFO	Marionette enabled
+1670576444393	Marionette	INFO	Listening on port 56912
+WebDriver BiDi listening on ws://127.0.0.1:56899
+Read port: 56912
+1670576444614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56899/devtools/browser/4083c5b8-9fe5-458c-b0fb-1591c426d86b
+1670576613858	Marionette	INFO	Stopped listening on port 56912
+[Parent 17336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670576700551	geckodriver	INFO	Listening on 127.0.0.1:57093
+1670576705415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile3McOm8"
+1670576705693	Marionette	INFO	Marionette enabled
+1670576705698	Marionette	INFO	Listening on port 57103
+WebDriver BiDi listening on ws://127.0.0.1:57094
+Read port: 57103
+1670576705879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57094/devtools/browser/924aa05e-e9aa-4368-b46f-f5ee41fd87cb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670576821403	Marionette	INFO	Stopped listening on port 57103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileT2bJQl"
+1670576765445	Marionette	INFO	Marionette enabled
+1670576765450	Marionette	INFO	Listening on port 57140
+WebDriver BiDi listening on ws://127.0.0.1:57131
+Read port: 57140
+1670576765687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57131/devtools/browser/03408ff7-bb7e-4f3c-8152-6cadb0fada72
+1670576772135	Marionette	INFO	Stopped listening on port 57140
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670576813984	geckodriver	INFO	Listening on 127.0.0.1:57163
+1670576818841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileTcc7Kl"
+1670576819108	Marionette	INFO	Marionette enabled
+1670576819112	Marionette	INFO	Listening on port 57173
+WebDriver BiDi listening on ws://127.0.0.1:57164
+Read port: 57173
+1670576819292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57164/devtools/browser/dcbfbb57-cb67-4b8f-8a6a-e32bf792e477
+1670576868646	geckodriver	INFO	Listening on 127.0.0.1:57249
+1670576873473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilehp9RBf"
+1670576873728	Marionette	INFO	Marionette enabled
+1670576873731	Marionette	INFO	Listening on port 57259
+WebDriver BiDi listening on ws://127.0.0.1:57250
+Read port: 57259
+1670576873947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57250/devtools/browser/7bb182c6-fbf5-43a0-a2ed-0b321943b775
+1670577134472	geckodriver	INFO	Listening on 127.0.0.1:57342
+1670577139300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilelX6HYB"
+1670577139576	Marionette	INFO	Marionette enabled
+1670577139581	Marionette	INFO	Listening on port 57353
+WebDriver BiDi listening on ws://127.0.0.1:57343
+Read port: 57353
+1670577139734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57343/devtools/browser/f02c8fb9-8dd9-42e5-b8b3-ec5cfd5fec00
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670577229911	geckodriver	INFO	Listening on 127.0.0.1:57492
+1670577234741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileqxIWvI"
+1670577235002	Marionette	INFO	Marionette enabled
+1670577235006	Marionette	INFO	Listening on port 57511
+WebDriver BiDi listening on ws://127.0.0.1:57493
+Read port: 57511
+1670577235218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57493/devtools/browser/83fbd034-1a63-4b7b-9408-4e1e66b4dc10
+1670577454200	geckodriver	INFO	Listening on 127.0.0.1:57639
+1670577459072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileRDgB8Y"
+1670577459332	Marionette	INFO	Marionette enabled
+1670577459337	Marionette	INFO	Listening on port 57652
+WebDriver BiDi listening on ws://127.0.0.1:57640
+Read port: 57652
+1670577459512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57640/devtools/browser/b9cc6b9a-6986-4bd2-9305-9d6958d93e76
+1670577490925	geckodriver	INFO	Listening on 127.0.0.1:57717
+1670577495771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileJqnWJV"
+1670577496047	Marionette	INFO	Marionette enabled
+1670577496052	Marionette	INFO	Listening on port 57727
+Read port: 57727
+WebDriver BiDi listening on ws://127.0.0.1:57718
+1670577496205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57718/devtools/browser/4627e9fc-5231-4c2b-a1df-efde0cdf2d88
+1670577558934	geckodriver	INFO	Listening on 127.0.0.1:57793
+1670577563796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileXGEldu"
+1670577564052	Marionette	INFO	Marionette enabled
+1670577564056	Marionette	INFO	Listening on port 57803
+WebDriver BiDi listening on ws://127.0.0.1:57794
+Read port: 57803
+1670577564283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57794/devtools/browser/4023e1f6-19a0-449f-8516-d44a1db78479
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670577954259	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670577980075	geckodriver	INFO	Listening on 127.0.0.1:57884
+1670578009190	geckodriver	INFO	Listening on 127.0.0.1:57898
+1670578014066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileq9eLV9"
+1670578014338	Marionette	INFO	Marionette enabled
+1670578014341	Marionette	INFO	Listening on port 57908
+WebDriver BiDi listening on ws://127.0.0.1:57899
+Read port: 57908
+1670578014511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57899/devtools/browser/db51e3c5-e12a-4e13-87b1-7e35beb758be
+1670578695548	geckodriver	INFO	Listening on 127.0.0.1:58065
+1670578714805	geckodriver	INFO	Listening on 127.0.0.1:58074
+1670578719816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileWlRmXY"
+1670578720078	Marionette	INFO	Marionette enabled
+1670578720083	Marionette	INFO	Listening on port 58086
+WebDriver BiDi listening on ws://127.0.0.1:58075
+Read port: 58086
+1670578720308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58075/devtools/browser/ba66ef1b-d18c-49d9-8c6d-469c14abceaf
+1670578756966	Marionette	INFO	Stopped listening on port 58081670578758906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileeB8Zg3"
+1670578759155	Marionette	INFO	Marionette enabled
+1670578759159	Marionette	INFO	Listening on port 58123
+WebDriver BiDi listening on ws://127.0.0.1:58112
+Read port: 58123
+1670578759390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58112/devtools/browser/df3c1598-151b-42a5-89f2-3feaa8c0e36f
+1670579149299	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670579156681	geckodriver	INFO	Listening on 127.0.0.1:58252
+1670579166220	geckodriver	INFO	Listening on 127.0.0.1:58259
+1670579171516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58260" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilec8X9uz"
+1670579171800	Marionette	INFO	Marionette enabled
+1670579171805	Marionette	INFO	Listening on port 58269
+Read port: 58269
+WebDriver BiDi listening on ws://127.0.0.1:58260
+1670579171956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58260/devtools/browser/04004448-2a93-45cd-9056-0336be39c081
+1670579213571	geckodriver	INFO	Listening on 127.0.0.1:58334
+1670579218472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile7MAv6R"
+1670579218731	Marionette	INFO	Marionette enabled
+1670579218734	Marionette	INFO	Listening on port 58344
+WebDriver BiDi listening on ws://127.0.0.1:58335
+Read port: 58344
+1670579218966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58335/devtools/browser/79f628dc-d17c-475d-b468-d790d8cea6d9
+1670579253581	geckodriver	INFO	Listening on 127.0.0.1:58415
+1670579258407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileTRUJjN"
+1670579258665	Marionette	INFO	Marionette enabled
+1670579258668	Marionette	INFO	Listening on port 58425
+WebDriver BiDi listening on ws://127.0.0.1:58416
+Read port: 58425
+1670579258889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58416/devtools/browser/66d0bbed-267b-4729-a155-1f3e00a9a677
+1670579310724	geckodriver	INFO	Listening on 127.0.0.1:58553
+1670579315572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofiledxnWkj"
+1670579315840	Marionette	INFO	Marionette enabled
+1670579315846	Marionette	INFO	Listening on port 58563
+WebDriver BiDi listening on ws://127.0.0.1:58554
+Read port: 58563
+1670579316013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58554/devtools/browser/b56b2878-14b9-4775-a65f-1d308a23d33d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670579613304	geckodriver	INFO	Listening on 127.0.0.1:58731
+1670579618184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58732" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilejBsWfM"
+1670579618465	Marionette	INFO	Marionette enabled
+1670579618469	Marionette	INFO	Listening on port 58741
+Read port: 58741
+WebDriver BiDi listening on ws://127.0.0.1:58732
+1670579618623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58732/devtools/browser/73325473-29d0-4931-baa0-9661b644a00d
+1670579659738	geckodriver	INFO	Listening on 127.0.0.1:58809
+1670579664671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilecnMGsL"
+1670579664926	Marionette	INFO	Marionette enabled
+1670579664932	Marionette	INFO	Listening on port 58819
+WebDriver BiDi listening on ws://127.0.0.1:58810
+Read port: 58819
+1670579665148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58810/devtools/browser/2c2fd32c-32ea-4b0a-9e77-07cdc1bd92db
+1670579743779	geckodriver	INFO	Listening on 127.0.0.1:58882
+1670579748624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile6TB96M"
+1670579748918	Marionette	INFO	Marionette enabled
+1670579748921	Marionette	INFO	Listening on port 58893
+Read port: 58893
+WebDriver BiDi listening on ws://127.0.0.1:58883
+1670579749001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58883/devtools/browser/963fb100-533a-4412-8ffe-4f1a2ef08d61
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670579785384	Marionette	INFO	Stopped listening on port 58893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670579788370	geckodriver	INFO	Listening on 127.0.0.1:58959
+1670579793387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58960" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileLnWZYg"
+1670579793650	Marionette	INFO	Marionette enabled
+1670579793654	Marionette	INFO	Listening on port 58975
+WebDriver BiDi listening on ws://127.0.0.1:58960
+Read port: 58975
+1670579793881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58960/devtools/browser/20ee0bec-2d45-4eb4-88a1-9844526d362f
+1670579912835	geckodriver	INFO	Listening on 127.0.0.1:59050
+1670579917958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilezu4pjP"
+1670579918306	Marionette	INFO	Marionette enabled
+1670579918314	Marionette	INFO	Listening on port 59061
+WebDriver BiDi listening on ws://127.0.0.1:59051
+Read port: 59061
+1670579918578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59051/devtools/browser/aa91b59e-c098-4009-b4df-a38b5d44a50f
+1670579973738	geckodriver	INFO	Listening on 127.0.0.1:59126
+1670579978560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile3LpEMK"
+1670579978820	Marionette	INFO	Marionette enabled
+1670579978824	Marionette	INFO	Listening on port 59136
+WebDriver BiDi listening on ws://127.0.0.1:59127
+Read port: 59136
+1670579979036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59127/devtools/browser/cb960e7b-eb31-4707-8131-ec7283dd99d7
+1670580360203	geckodriver	INFO	Listening on 127.0.0.1:59260
+1670580365090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileTL9R32"
+1670580365388	Marionette	INFO	Marionette enabled
+1670580365391	Marionette	INFO	Listening on port 59271
+Read port: 59271
+WebDriver BiDi listening on ws://127.0.0.1:59261
+1670580365468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59261/devtools/browser/cbc0eb3f-6a98-4d1c-985a-d8e92c303686
+1670580391601	geckodriver	INFO	Listening on 127.0.0.1:59330
+1670580396427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilefYAOCJ"
+1670580396684	Marionette	INFO	Marionette enabled
+1670580396688	Marionette	INFO	Listening on port 59340
+WebDriver BiDi listening on ws://127.0.0.1:59331
+Read port: 59340
+1670580396915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59331/devtools/browser/e2d45b0a-b8fe-48ee-8ccc-f7172c2195cb
+1670580444757	geckodriver	INFO	Listening on 127.0.0.1:59401
+1670580449569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilectqwMU"
+1670580449829	Marionette	INFO	Marionette enabled
+1670580449834	Marionette	INFO	Listening on port 59411
+WebDriver BiDi listening on ws://127.0.0.1:59402
+Read port: 59411
+1670580450052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59402/devtools/browser/d8c0cfbf-c643-46b8-919a-f4f72836166b
+1670580486172	geckodriver	INFO	Listening on 127.0.0.1:59478
+1670580491098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilea1sSGy"
+1670580491376	Marionette	INFO	Marionette enabled
+1670580491381	Marionette	INFO	Listening on port 59488
+WebDriver BiDi listening on ws://127.0.0.1:59479
+Read port: 59488
+1670580491531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59479/devtools/browser/cd812b4c-9436-4d09-8423-998b8883796b
+1670580583671	geckodriver	INFO	Listening on 127.0.0.1:59563
+1670580592498	geckodriver	INFO	Listening on 127.0.0.1:59577
+1670580597331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileZ9dygF"
+1670580597622	Marionette	INFO	Marionette enabled
+1670580597626	Marionette	INFO	Listening on port 59587
+Read port: 59587
+WebDriver BiDi listening on ws://127.0.0.1:59578
+1670580597701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59578/devtools/browser/f785a2b1-d567-4933-9c59-31bfe382c9bb
+1670580690037	geckodriver	INFO	Listening on 127.0.0.1:59650
+1670580694856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileg90uoR"
+1670580695118	Marionette	INFO	Marionette enabled
+1670580695123	Marionette	INFO	Listening on port 59660
+WebDriver BiDi listening on ws://127.0.0.1:59651
+Read port: 59660
+1670580695340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59651/devtools/browser/f95136b1-eec8-4aff-8c68-d280bf178ceb
+1670580771360	Marionette	INFO	Stopped listening on port 59661670580775197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile8hSqUJ"
+1670580775464	Marionette	INFO	Marionette enabled
+1670580775469	Marionette	INFO	Listening on port 59753
+WebDriver BiDi listening on ws://127.0.0.1:59740
+Read port: 59753
+1670580775544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59740/devtools/browser/14077417-0670-4cdd-96a1-977109bc21ac
+1670580805244	Marionette	INFO	Stopped listening on port 59753
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670580808524	geckodriver	INFO	Listening on 127.0.0.1:59832
+1670580813732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileEmddtg"
+1670580813999	Marionette	INFO	Marionette enabled
+1670580814005	Marionette	INFO	Listening on port 59844
+WebDriver BiDi listening on ws://127.0.0.1:59833
+Read port: 59844
+1670580814190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59833/devtools/browser/47e89578-ef07-47b3-82d6-414295a12e93
+1670580859430	geckodriver	INFO	Listening on 127.0.0.1:59929
+1670580864284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileassAjK"
+1670580864540	Marionette	INFO	Marionette enabled
+1670580864544	Marionette	INFO	Listening on port 59939
+WebDriver BiDi listening on ws://127.0.0.1:59930
+Read port: 59939
+1670580864762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59930/devtools/browser/0386b4ab-4ff9-4903-a3b4-fbf7d6ef41ff
+1670581254820	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileassAjK\thumbnails) because it does not exist
+1670581718715	geckodriver	INFO	Listening on 127.0.0.1:60233
+1670581723540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileDvng97"
+1670581723821	Marionette	INFO	Marionette enabled
+1670581723824	Marionette	INFO	Listening on port 60243
+Read port: 60243
+WebDriver BiDi listening on ws://127.0.0.1:60234
+1670581723896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60234/devtools/browser/d9b80bb7-7d8c-4f78-8030-9cd9c85c3f6f
+1670582769477	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670582842290	geckodriver	INFO	Listening on 127.0.0.1:60540
+1670582847160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileH6Geig"
+1670582847439	Marionette	INFO	Marionette enabled
+1670582847444	Marionette	INFO	Listening on port 60550
+Read port: 60550
+WebDriver BiDi listening on ws://127.0.0.1:60541
+1670582847520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60541/devtools/browser/82ca7997-0f6c-48e0-8f91-f7cc8a28caf3
+1670582897669	geckodriver	INFO	Listening on 127.0.0.1:60622
+1670582902594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile9vNi3O"
+1670582902850	Marionette	INFO	Marionette enabled
+1670582902855	Marionette	INFO	Listening on port 60632
+WebDriver BiDi listening on ws://127.0.0.1:60623
+Read port: 60632
+1670582903075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60623/devtools/browser/1d209c43-d965-4770-afc6-6d68c7314310
+1670582950738	geckodriver	INFO	Listening on 127.0.0.1:60696
+1670582955552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile2G2Rlc"
+1670582955809	Marionette	INFO	Marionette enabled
+1670582955812	Marionette	INFO	Listening on port 60706
+WebDriver BiDi listening on ws://127.0.0.1:60697
+Read port: 60706
+1670582956029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60697/devtools/browser/0ae05514-c1df-4ada-be16-ee0756153437
+1670583052061	geckodriver	INFO	Listening on 127.0.0.1:60810
+1670583056886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilefykAnx"
+1670583057165	Marionette	INFO	Marionette enabled
+1670583057169	Marionette	INFO	Listening on port 60821
+Read port: 60821
+WebDriver BiDi listening on ws://127.0.0.1:60811
+1670583057243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60811/devtools/browser/881ec560-078f-4443-aa69-9614c08a828b
+1670583136649	Marionette	INFO	Stopped listening on port 60821
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670583236921	geckodriver	INFO	Listening on 127.0.0.1:60920
+1670583241732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileEcISH0"
+1670583242001	Marionette	INFO	Marionette enabled
+1670583242005	Marionette	INFO	Listening on port 60930
+WebDriver BiDi listening on ws://127.0.0.1:60921
+Read port: 60930
+1670583242178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60921/devtools/browser/2b1868fe-7470-411c-be5e-cd45a7a05e24
+1670583298992	geckodriver	INFO	Listening on 127.0.0.1:61001
+1670583303757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilehtgvhv"
+1670583304008	Marionette	INFO	Marionette enabled
+1670583304011	Marionette	INFO	Listening on port 61011
+WebDriver BiDi listening on ws://127.0.0.1:61002
+Read port: 61011
+1670583304231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61002/devtools/browser/98fa6836-98e8-4d7d-9b8b-a66f0ab4aae5
+1670583350390	geckodriver	INFO	Listening on 127.0.0.1:61094
+1670583355275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilebZI3SR"
+1670583355562	Marionette	INFO	Marionette enabled
+1670583355566	Marionette	INFO	Listening on port 61106
+Read port: 61106
+WebDriver BiDi listening on ws://127.0.0.1:61095
+1670583355660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1670583360477	geckodriver	INFO	Listening on 127.0.0.1:61113
+1670583365317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61114" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileRbOyZp"
+1670583365584	Marionette	INFO	Marionette enabled
+1670583365587	Marionette	INFO	Listening on port 61123
+WebDriver BiDi listening on ws://127.0.0.1:61114
+Read port: 61123
+1670583365763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61114/devtools/browser/bd3cf27a-9d52-4a30-be92-12808cb41284
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670583576057	geckodriver	INFO	Listening on 127.0.0.1:61278
+1670583581611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileFdg50O"
+*** You are running in headless mode.
+1670583581932	Marionette	INFO	Marionette enabled
+1670583581937	Marionette	INFO	Listening on port 61289
+WebDriver BiDi listening on ws://127.0.0.1:61279
+Read port: 61289
+1670583582190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:61279/devtools/browser/a3a72d81-aed9-47ef-bfa1-dec3205fe322
+1670583972529	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1670584113577	geckodriver	INFO	Listening on 127.0.0.1:61691
+1670584118458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile7DFV4v"
+*** You are running in headless mode.
+1670584118691	Marionette	INFO	Marionette enabled
+1670584118695	Marionette	INFO	Listening on port 61701
+WebDriver BiDi listening on ws://127.0.0.1:61692
+Read port: 61701
+1670584118900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:61692/devtools/browser/034ccbdd-9529-48c4-ac63-d1129f0d7fec
+1670584525141	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7DFV4v\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7DFV4v\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile7DFV4v\thumbnails) because it does not exist
+	Marionette	INFO	Listening on port 64619
+Read port: 64619
+WebDriver BiDi listening on ws://127.0.0.1:64607
+1670589308559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64607/devtools/browser/291bfd81-ff04-4827-bd4b-3652446ae763
+1670589415706	geckodriver	INFO	Listening on 127.0.0.1:64700
+1670589420515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileSzy8vW"
+1670589420786	Marionette	INFO	Marionette enabled
+1670589420789	Marionette	INFO	Listening on port 64711
+Read port: 64711
+WebDriver BiDi listening on ws://127.0.0.1:64701
+1670589420866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64701/devtools/browser/12dce38c-945d-4b8f-ada7-531b1cb2f8fb
+1670589694082	Marionette	INFO	Stopped listening on port 64711
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:869:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:774:38
+
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670589695261	geckodriver	INFO	Listening on 127.0.0.1:64845
+1670589700050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile6sMs94"
+1670589700299	Marionette	INFO	Marionette enabled
+1670589700305	Marionette	INFO	Listening on port 64855
+WebDriver BiDi listening on ws://127.0.0.1:64846
+Read port: 64855
+1670589700462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64846/devtools/browser/77c0a7e1-7145-4e4e-822f-b3454589f121
+1670590007725	Marionette	INFO	Stopped listening on port 64855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670590021829	geckodriver	INFO	Listening on 127.0.0.1:65055
+1670590026619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileiG4aB3"
+*** You are running in headless mode.
+1670590026847	Marionette	INFO	Marionette enabled
+1670590026850	Marionette	INFO	Listening on port 65065
+WebDriver BiDi listening on ws://127.0.0.1:65056
+Read port: 65065
+1670590027039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:65056/devtools/browser/3134ffe3-eb9a-4f0b-8e34-ef6a916c6d81
+1670590424217	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileiG4aB3\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+ "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilepKcZrr"
+*** You are running in headless mode.
+1670594266559	Marionette	INFO	Marionette enabled
+1670594266563	Marionette	INFO	Listening on port 50244
+WebDriver BiDi listening on ws://127.0.0.1:50231
+Read port: 50244
+1670594266797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50231/devtools/browser/cd9dba9f-e124-4dd5-944c-a07a2997c6fa

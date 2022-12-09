@@ -1,8 +1,7 @@
-from typing import Optional, Union
+from typing import Union, Optional
 
 from sqlalchemy import update
 from sqlalchemy.sql import select
-
 from robert_parker.database.models.parker_wine import Base, Request, ParkerWine
 
 from sqlalchemy.dialects import mysql
@@ -39,7 +38,7 @@ def update_status(request_id, status):
     compile_execute_selection(stmt)
 
 
-def is_exist_item_database(item: WineItem) -> Union[bool, int]:
+def select_item(item: WineItem):
     stmt = select(ParkerWine.id).where(ParkerWine.name == item.name,
                                        ParkerWine.rating_low == item.rating_low,
                                        ParkerWine.name_display == item.name_display,
@@ -55,14 +54,14 @@ def is_exist_item_database(item: WineItem) -> Union[bool, int]:
     result = compile_execute_selection(stmt)
     wine_ids = result.fetchall()
     if not wine_ids or len(wine_ids) != 1:
-        return False
+        return
     return wine_ids[0]
 
 
 def compile_execute_selection(stmt, item=None):
     try:
         stmt_compiled = stmt.compile(compile_kwargs={"literal_binds": True}, dialect=mysql.dialect())
-    except TypeError:
+    except (TypeError, AttributeError):
         return
     return engine.execute(str(stmt_compiled), tuple(stmt_compiled.params.values()))
 
@@ -73,17 +72,16 @@ def insert_to_db(item: WineItem):
     compile_execute_selection(stmt, item)
 
 
-def on_duplicate_key_update(item, wine_id):
+def update_item(item, wine_id):
     item['id'] = wine_id[0]
-    inserted_stmt = insert(ParkerWine)
-    stmt = inserted_stmt.on_duplicate_key_update(item).values(item)
-    compile_execute_selection(stmt, item)
+    stmt = update(ParkerWine).where(ParkerWine.id == wine_id[0]).values(item)
+    compile_execute_selection(stmt)
 
 
 def insert_or_update(wine_item: WineItem):
-    wine_id = is_exist_item_database(wine_item)
+    wine_id = select_item(wine_item)
     if wine_id:
-        on_duplicate_key_update(wine_item.__dict__, wine_id)
+        update_item(wine_item.__dict__, wine_id)
         return
     insert_to_db(wine_item)
 
