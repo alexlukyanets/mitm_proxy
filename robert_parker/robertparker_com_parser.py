@@ -1,5 +1,4 @@
 import logging
-import time
 from typing import Optional, List
 
 from selenium.common import NoSuchElementException, InvalidArgumentException, TimeoutException
@@ -32,26 +31,38 @@ class RobertparkerComParser:
         return f'https://www.robertparker.com{current_url}'
 
     @classmethod
-    def parse_wine(cls, wine: dict):
+    def parse_wines(cls, wine: dict):
         wine_dict = wine.get('_source')
-
         if not wine_dict:
+            logger.error('Unable to find _source')
+            return
+        testing_notes_list = wine['_source'].get('tasting_notes')
+        if not testing_notes_list:
+            logger.error('Unable to find testing_notes_list')
             return
         wine_item = WineItem()
+        testing_notes = testing_notes_list[0]
+        wine_item.testing_note_id = testing_notes.get('_id')
+        wine_item.rating = testing_notes.get('rating')
+        wine_item.reviewer = testing_notes['reviewer']['name']
+        wine_item.reviewer_id = testing_notes['reviewer']['_id']
+        wine_item.description = testing_notes.get('content')
+        wine_item.source_text = testing_notes['source']['label']
+        wine_item.source_link = testing_notes['source']['path']
+        wine_item.drink_date = testing_notes.get('drink_date')
+        wine_item.issue_date = cls.extract_issue_date(testing_notes)
+        wine_item.price = testing_notes.get('price')
         wine_item.wine_id = wine['_id']
         wine_item.country = wine_dict['country']['name']
         maturity = wine_dict.get('maturity')
         if maturity:
             wine_item.maturity = maturity.get('value')
-        rating = wine_dict.get('rating')
-        if rating:
-            wine_item.rating_low = rating.get('low')
-            wine_item.rating_high = rating.get('high')
-            wine_item.rating_computed = rating.get('computed')
         locale = wine_dict.get('locale')
         if locale:
             wine_item.locale = locale.get('name')
-        wine_item.type = wine_dict['type']['value']
+        wine_type = wine_dict.get('type')
+        if wine_type:
+            wine_item.type = wine_type.get('value')
         wine_item.color = wine_dict['color_class']['value']
         variety = wine_dict.get('variety')
         if variety:
@@ -73,17 +84,9 @@ class RobertparkerComParser:
         region = wine_dict.get('region')
         if region:
             wine_item.region = region.get('name')
-        testing_notes = wine['_source']['tasting_notes']
-        if not testing_notes:
-            return wine_item
-        testing_notes = testing_notes[0]
-        wine_item.reviewer = testing_notes['reviewer']['name']
-        wine_item.reviewer_id = testing_notes['reviewer']['_id']
-        wine_item.description = testing_notes.get('content')
-        wine_item.source_text = testing_notes['source']['label']
-        wine_item.source_link = testing_notes['source']['path']
-        wine_item.drink_date = testing_notes.get('drink_date')
-        wine_item.issue_date = cls.extract_issue_date(testing_notes)
+        site = wine_dict.get('site')
+        if site:
+            wine_item.site = site.get('name')
         return wine_item
 
     @classmethod
@@ -111,6 +114,15 @@ class RobertparkerComParser:
             return
 
     @classmethod
+    def extract_amount(cls, driver):
+        try:
+            element = driver.find_element(By.XPATH,
+                                          '/html/body/div[2]/main/div[2]/div[2]/div/div/div[1]/section[4]/ul/li/a/span[2]')
+        except cls.selenium_exceptions():
+            return
+        return element.text.strip('(').strip(')')
+
+    @classmethod
     def find_xpaths(cls, driver: WebDriver, xpaths: List, delay):
         for item_xpath in xpaths:
             try:
@@ -119,7 +131,7 @@ class RobertparkerComParser:
                 pass
 
     @classmethod
-    def find_xpath_delay(cls, driver: WebDriver, xpath1, xpath2=None, max_counter=40, delay=0.1):
+    def find_xpath_delay(cls, driver: WebDriver, xpath1, xpath2=None, max_counter=15, delay=0.1):
         xpaths = [item for item in [xpath1, xpath2] if item]
         if not xpaths:
             return

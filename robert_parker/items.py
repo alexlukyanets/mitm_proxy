@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from datetime import datetime
 from typing import Optional
 
 
@@ -8,9 +7,7 @@ class WineItem:
     wine_id: Optional[str] = None
     country: Optional[str] = None
     maturity: Optional[str] = None
-    rating_high: Optional[int] = None
-    rating_low: Optional[int] = None
-    rating_computed: Optional[int] = None
+    rating: Optional[int] = None
     locale: Optional[str] = None
     type: Optional[str] = None
     color: Optional[str] = None

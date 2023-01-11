@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service as FirefoxService
 from webdriver_manager.firefox import GeckoDriverManager
-from selenium.webdriver import FirefoxOptions, FirefoxProfile, Firefox
+from selenium.webdriver import FirefoxOptions, Firefox
 
 options = FirefoxOptions()
 options.headless = True

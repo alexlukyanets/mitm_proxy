@@ -1,0 +1,22 @@
+Fields that I can't touch
+
+producer name
+county
+region
+
+questions
+do importer updated?
+ask about rating
+
+match
+
+locale = vineyard
+
+vintage = year
+
+location name = appellation
+
+source = source_text
+
+reviewer_by = reviewer
+

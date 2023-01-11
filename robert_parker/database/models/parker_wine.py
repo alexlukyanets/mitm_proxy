@@ -1,5 +1,5 @@
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.dialects.mysql import VARCHAR, TEXT, INTEGER, DATETIME
+from sqlalchemy.dialects.mysql import VARCHAR, TEXT, INTEGER
 from sqlalchemy import Column
 
 from robert_parker.database.models.mixins import MysqlTimestampsMixin, MysqlPrimaryKeyMixin, MysqlStatusMixin
@@ -19,10 +19,11 @@ class ParkerWine(Base, MysqlPrimaryKeyMixin, MysqlTimestampsMixin):
     variety = Column(VARCHAR(768))
     sweetness = Column(VARCHAR(768))
 
-    rating_high = Column(INTEGER)
-    rating_low = Column(INTEGER)
-    rating_computed = Column(INTEGER)
+    rating = Column(VARCHAR(768))
+    site = Column(VARCHAR(768))
+    price = Column(VARCHAR(768))
     vintage = Column(VARCHAR(768))
+    testing_note_id = Column(VARCHAR(768))
 
     name = Column(VARCHAR(768))
     name_display = Column(VARCHAR(768))
@@ -46,4 +47,4 @@ class Request(Base, MysqlPrimaryKeyMixin, MysqlTimestampsMixin, MysqlStatusMixin
     url = Column(TEXT)
     country_name = Column(VARCHAR(100))
     current_page = Column(INTEGER)
-    amount = Column(INTEGER)
+    amount = Column(VARCHAR(100))
