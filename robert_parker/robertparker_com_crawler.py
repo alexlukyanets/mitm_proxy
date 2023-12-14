@@ -1,6 +1,4 @@
 import os
-import time
-
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -41,11 +39,7 @@ class RobertparkerCom:
 
     @staticmethod
     def countries():
-        return 'Argentina', 'Spain', 'Bulgaria', 'Armenia', 'Chile', 'Liechtenstein', 'China', 'Georgia', \
-              'Lebanon', 'Canada', 'Germany', 'Switzerland', 'Algeria', 'Albania', \
-               'Italy', 'Cyprus', 'Greece', 'Japan', \
-               'Australia', 'Austria', 'Morocco', 'Luxembourg', 'United Kingdom', 'Hungary', 'New Zealand', \
-               'Croatia', 'Israel', 'Bosnia and Herzegovina', 'Denmark'
+        return 'Argentina'
 
     def parse_products(self):
         results = select_requests()
@@ -69,10 +63,9 @@ class RobertparkerCom:
             #     continue
             update_amount(request_id, self.parser.extract_amount(self.driver))
             start_page = 1
-            if country_name == 'New Zealand':
-                start_page = 68
+            if country_name == 'Argentina':
+                start_page = 214
             for page in range(start_page, last_page_number + 1):
-
                 self.driver.get(self.build_current_page(link, page))
                 if not self.parser.find_xpath_delay(self.driver,
                                                     xpath1='//*[@id="by-location"]/div/div[2]/div[1]/div/div/div',

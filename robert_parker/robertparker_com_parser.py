@@ -102,7 +102,7 @@ class RobertparkerComParser:
 
     @classmethod
     def extract_last_page_number(cls, driver: WebDriver) -> Optional[int]:
-        element = cls.find_xpath_delay(driver, xpath1='//span[contains(text(), "Last")]/../..')
+        element = cls.find_xpath_delay(driver, xpath1='//span[contains(text(), "Last")]/../..', delay=10)
         if element:
             try:
                 return int(element.get_attribute('href').rsplit('=', 1)[-1])

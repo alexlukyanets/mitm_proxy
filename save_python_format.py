@@ -52,9 +52,6 @@ def {func_name}(cls) -> dict:
             except TypeError:
                 decoded_key = key
                 decoded_value = value
-
-            if not decoded_key or not decoded_value:
-                continue
             field_dict.update({decoded_key: decoded_value})
         return field_dict
 

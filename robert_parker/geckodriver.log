@@ -3325,34 +3325,20 @@ JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Cou
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
-AppData\\Local\\Temp\\rust_mozprofileL4u45M"
-1673342867004	Marionette	INFO	Marionette enabled
-1673342867010	Marionette	INFO	Listening on port 56053
-WebDriver BiDi listening on ws://127.0.0.1:56044
-Read port: 56053
-1673342867262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-DevTools listening on ws://127.0.0.1:56044/devtools/browser/f881240a-d43e-4777-aa89-8a67ebafe30b
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
-1673342892529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileL4u45M\thumbnails) because it does not exist
-1673342915923	geckodriver	INFO	Listening on 127.0.0.1:56164
-1673342921457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileWLS5JY"
-1673342921777	Marionette	INFO	Marionette enabled
-1673342921783	Marionette	INFO	Listening on port 56174
-WebDriver BiDi listening on ws://127.0.0.1:56165
-Read port: 56174
-1673342922129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-DevTools listening on ws://127.0.0.1:56165/devtools/browser/e7dfc697-121f-4f00-8102-024fee351646
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
-1673342975125	geckodriver	INFO	Listening on 127.0.0.1:56276
-1673342980579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile0R0iNj"
-1673342980899	Marionette	INFO	Marionette enabled
-1673342980907	Marionette	INFO	Listening on port 56286
-WebDriver BiDi listening on ws://127.0.0.1:56277
-Read port: 56286
-1673342981157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-DevTools listening on ws://127.0.0.1:56277/devtools/browser/98e6635a-e9fb-4a0f-ade1-c625f857faba
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+1673515565159	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLMYiK8\thumbnails) because it does not exist
+
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile0R0iNj\thumbnails) because it does not exist
 1673343020934	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1673343058103	geckodriver	INFO	Listening on 127.0.0.1:56428
@@ -3579,71 +3565,47 @@ JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\O
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileDkdg9s\thumbnails) because it does not exist
 1673434380963	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileaBU3wV\thumbnails) because it does not exist
-eError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
-console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
-console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileDkdg9s\bookmarkbackups\bookmarks-2023-01-11_11_Xx1MGWupotIoykgrnmVKmg==.jsonlz4) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileDkdg9s\thumbnails) because it does not exist
+1673520781341	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\LocJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106:JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileDkdg9s\thumbnails) because it does not exist
+ Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileaBU3wV\thumbnails) because it does not exist
+\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
-1673446085151	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
+1673532527780	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileLruao0\thumbnails) because it does not exist
-ause it does not exist
-console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
-console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
-JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\bookmarkbackups\bookmarks-2023-01-10_11_Xx1MGWupotIoykgrnmVKmg==.jsonlz4) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+Script error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
 1673453239013	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
-bertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
-JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
-JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
-1673433115280	geckodriver	INFO	Listening on 127.0.0.1:62186
-1673433120998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileGUxczI"
-*** You are running in headless mode.
-1673433121368	Marionette	INFO	Marionette enabled
-1673433121374	Marionette	INFO	Listening on port 62197
-Read port: 62197
-WebDriver BiDi listening on ws://127.0.0.1:62187
-1673433121460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-DevTools listening on ws://127.0.0.1:62187/devtools/browser/65cfe3ed-f1e8-40b4-ae4c-d917633afec7
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileGUxczI\thumbnails) because it does not exist
-JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
-JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
-1673437177319	geckodriver	INFO	Listening on 127.0.0.1:61835
-1673437184669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "61836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileuWnXLa"
-*** You are running in headless mode.
-1673437185271	Marionette	INFO	Marionette enabled
-1673437185280	Marionette	INFO	Listening on port 61845
-Read port: 61845
-WebDriver BiDi listening on ws://127.0.0.1:61836
-1673437185419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilempzSNs\thumbnails) because it does not exist
+1673539918579	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+37185419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 DevTools listening on ws://127.0.0.1:61836/devtools/browser/82257c47-bbe5-4115-86fc-3ec55c5d9bb6
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
@@ -3712,3 +3674,334 @@ Read port: 64583
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 DevTools listening on ws://127.0.0.1:64568/devtools/browser/9245bb71-3679-4263-944c-a756dd432021
 [Parent 28068, Main Thread] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1673449267619	geckodriver	INFO	Listening on 127.0.0.1:64652
+1673449273833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileFWfxpL"
+*** You are running in headless mode.
+1673449274170	Marionette	INFO	Marionette enabled
+1673449274175	Marionette	INFO	Listening on port 64666
+WebDriver BiDi listening on ws://127.0.0.1:64653
+Read port: 64666
+1673449274442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64653/devtools/browser/8c0443e1-6a17-47b7-90ed-4b7094d5485a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFWfxpL\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileFWfxpL\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+1673455568556	geckodriver	INFO	Listening on 127.0.0.1:59508
+1673455576115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofile6HEybL"
+*** You are running in headless mode.
+1673455576838	Marionette	INFO	Marionette enabled
+1673455576846	Marionette	INFO	Listening on port 59532
+Read port: 59532
+WebDriver BiDi listening on ws://127.0.0.1:59509
+1673455577031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59509/devtools/browser/79c00a29-aade-457f-8b06-96c779a38635
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile6HEybL\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+1673455817312	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofile6HEybL\thumbnails) because it does not exist
+1673513390508	geckodriver	INFO	Listening on 127.0.0.1:51205
+1673513396170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51206" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilemSc9ra"
+*** You are running in headless mode.
+1673513396532	Marionette	INFO	Marionette enabled
+1673513396537	Marionette	INFO	Listening on port 51217
+Read port: 51217
+WebDriver BiDi listening on ws://127.0.0.1:51206
+1673513396626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51206/devtools/browser/ca8d5d62-f62c-46eb-bdf4-3151551b1250
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilemSc9ra\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+ "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilek4brTu"
+*** You are running in headless mode.
+1673538678992	Marionette	INFO	Marionette enabled
+1673538679003	Marionette	INFO	Listening on port 52162
+Read port: 52162
+WebDriver BiDi listening on ws://127.0.0.1:52133
+1673538679309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:52133/devtools/browser/69bd8a3d-ea33-4673-a867-b9adf0b1c5ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofilek4brTu\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/bd24094d9e7ed98283a9825f1289ae4111cf25ac.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+Exiting due to channel error.
+Exiting due to channel error.
+1673540211905	geckodriver	INFO	Listening on 127.0.0.1:55749
+1673540225568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55750" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileHUMYWa"
+*** You are running in headless mode.
+1673540226489	Marionette	INFO	Marionette enabled
+1673540226515	Marionette	INFO	Listening on port 55830
+Read port: 55830
+WebDriver BiDi listening on ws://127.0.0.1:55750
+1673540226903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:55750/devtools/browser/f8af6c6b-ae17-414d-85e5-1543174480f4
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+1673540736653	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+1673627136883	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+1673742167328	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+1673828926971	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+1674032940308	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+1674206353086	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileHUMYWa\thumbnails) because it does not exist
+le(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiledB2rpN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiledB2rpN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiledB2rpN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiledB2rpN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiledB2rpN\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofiledB2rpN\thumbnails) because it does not exist
+er.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+1674032940339	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\bookmarkbackups\bookmarks-2023-01-19_11_Xx1MGWupotIoykgrnmVKmg==.jsonlz4) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+1674206712951	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqFq42f\thumbnails) because it does not exist
+status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileNPz0Wm\thumbnails) because it does not exist
+t error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+1674202622653	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileC09kUp\thumbnails) because it does not exist
+RROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modulJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWZL4pJ\tJavaScript error: resource://gre/modulJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWZL4pJ\tJavaScript error: resource://gre/modulJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileWZL4pJ\tJavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileUPcJe3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileUPcJe3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileUPcJe3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileUPcJe3\thumbnails) because it does not exist
+humbnails) because it does not exist
+.0.1:50569/devtools/browser/14d4ce70-1aad-4a2b-8366-edb80e90f3d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileYma3Sd\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/aca74894e20388ac07d33a7f48b0732962c2d85c.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/aca74894e20388ac07d33a7f48b0732962c2d85c.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+1674136527230	geckodriver	INFO	Listening on 127.0.0.1:55445
+1674136534254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileVgTStG"
+*** You are running in headless mode.
+1674136534836	Marionette	INFO	Marionette enabled
+1674136534845	Marionette	INFO	Listening on port 55455
+Read port: 55455
+WebDriver BiDi listening on ws://127.0.0.1:55446
+1674136534997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:55446/devtools/browser/ac2352ed-dea1-4a7a-9c26-ec2f9be52660
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileVgTStG\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/aca74894e20388ac07d33a7f48b0732962c2d85c.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+JavaScript error: https://www.robertparker.com/aca74894e20388ac07d33a7f48b0732962c2d85c.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+1674144837061	geckodriver	INFO	Listening on 127.0.0.1:65490
+1674144848161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "65491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileqSo1li"
+*** You are running in headless mode.
+1674144849025	Marionette	INFO	Marionette enabled
+1674144849043	Marionette	INFO	Listening on port 65510
+Read port: 65510
+WebDriver BiDi listening on ws://127.0.0.1:65491
+1674144849280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:65491/devtools/browser/47f7cbfd-32c7-4087-a688-b422d9147358
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileqSo1li\thumbnails) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:325:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:396:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.sys.mjs:2277:8
+onClosed@chrome://remote/content/marionette/server.sys.mjs:206:17
+close@chrome://remote/content/marionette/transport.sys.mjs:219:18
+onInputStreamReady@chrome://remote/content/marionette/transport.sys.mjs:373:14
+
+1674202411313	geckodriver	INFO	Listening on 127.0.0.1:51912
+1674202418227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileRL0umC"
+*** You are running in headless mode.
+1674202419002	Marionette	INFO	Marionette enabled
+1674202419010	Marionette	INFO	Listening on port 52014
+Read port: 52014
+WebDriver BiDi listening on ws://127.0.0.1:51913
+1674202419174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51913/devtools/browser/7c891c80-3074-4386-b013-2430eb7d94c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.robertparker.com."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\OLEKSA~1\AppData\Local\Temp\rust_mozprofileRL0umC\thumbnails) because it does not exist
+JavaScript error: https://www.robertparker.com/aca74894e20388ac07d33a7f48b0732962c2d85c.js?meteor_js_resource=true, line 1: Error: INVALID_STATE_ERR
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 415))
